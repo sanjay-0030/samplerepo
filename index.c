@@ -1,5 +1,5 @@
 #include<stdio..h
 int main(){
-printf("Hi sanjay");
+printf("Hiiii sanjay");
 return 0;
 }git 
